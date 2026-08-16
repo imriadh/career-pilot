@@ -1,0 +1,1 @@
+-- Phase 2 will define full schema, indexes, and RLS policies.
